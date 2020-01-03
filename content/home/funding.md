@@ -1,6 +1,6 @@
 +++
 # Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "funding"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
@@ -17,31 +17,34 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
+[[funding]]
   title = "Enabling Ongoingness"
-  company = "EPSRC"
-  company_url = "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/P025609/1"
-  location = "Co-Investigator"
+  funder = "EPSRC"
+  funder_url = "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/P025609/1"
+  role = "Co-Investigator"
+  amount = "£885,438"
   date_start = "2017-06-01"
   date_end = "2021-06-01"
   description = """"""
 
-[[experience]]
-  title = "Post-Doctoral Research Associate"
-  company = "Open Lab, Newcastle University"
-  company_url = "https://openlab.ncl.ac.uk"
-  location = "Newcastle upon Tyne, UK"
-  date_start = "2016-02-01"
-  date_end = "2017-08-01"
+[[funding]]
+  title = "Enabling Ongoingness"
+  funder = "EPSRC"
+  funder_url = "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/P025609/1"
+  role = "Co-Investigator"
+  amount = "£885,438"
+  date_start = "2017-06-01"
+  date_end = "2021-06-01"
   description = """"""
 
-[[experience]]
-  title = "Post-Doctoral Research Associate"
-  company = "School of Computing, University of Dundee"
-  company_url = "https://dundee.ac.uk"
-  location = "Dundee, UK"
-  date_start = "2014-01-01"
-  date_end = "2016-02-01"
+[[funding]]
+  title = "Enabling Ongoingness"
+  funder = "EPSRC"
+  funder_url = "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/P025609/1"
+  role = "Co-Investigator"
+  amount = "£885,438"
+  date_start = "2017-06-01"
+  date_end = "2021-06-01"
   description = """"""
 
 +++
