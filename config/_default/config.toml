@@ -20,7 +20,7 @@ copyright = "Kyle Montague &copy; {year}"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "mr-bobot"
+theme = "mr-robot"
 
 # Get last modified date for content from Git?
 enableGitInfo = true
